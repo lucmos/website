@@ -61,13 +61,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lucamoschella/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/cv-short.pdf
+  # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: media/cv-short.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
