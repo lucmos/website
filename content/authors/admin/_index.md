@@ -32,13 +32,13 @@ education:
       gpa: ""
       year: ""
 
-    - course: MS in Computer Science
+    - course: M.S. in Computer Science
       institution: Sapienza University of Rome
       grade: "110/110 with honors"
       gpa: "30.3/30"
       year: 2019
 
-    - course: BS in Computer Science
+    - course: B.S. in Computer Science
       institution: Sapienza University of Rome
       grade: "110/110 with honors"
       gpa: "30.5/30"
@@ -62,9 +62,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/lucamoschella/
 
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
