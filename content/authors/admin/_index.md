@@ -28,6 +28,9 @@ education:
 
     - course: Ph.D. in Computer Science
       institution: Sapienza University of Rome
+      grade: ""
+      gpa: ""
+      year: ""
 
     - course: MS in Computer Science
       institution: Sapienza University of Rome
