@@ -25,19 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-
   - course: Ph.D. in Computer Science
     institution: Sapienza University of Rome
     grade: ""
     gpa: ""
     year: ""
-
   - course: M.S. in Computer Science
     institution: Sapienza University of Rome
     grade: "110/110 with honors"
     gpa: "30.3/30"
     year: 2019
-
   - course: B.S. in Computer Science
     institution: Sapienza University of Rome
     grade: "110/110 with honors"
