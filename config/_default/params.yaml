@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: luca.moschella94@gmail.com
+# email: luca.moschella94@gmail.com
 # phone: 888 888 88 88
-address:
+# address:
   # street: 450 Serra Mall
-  city: Aprilia
+  # city: Aprilia
   # region: CA
   # postcode: '94305'
-  country: Italy
-  country_code: IT
+  # country: Italy
+  # country_code: IT
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
@@ -37,11 +37,11 @@ address:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://twitter.com/Twitter'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
