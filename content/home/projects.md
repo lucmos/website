@@ -17,7 +17,7 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  filter_default: 2
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -28,7 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
+    tag: deeplearning
+  - name: Open Source
+    tag: opensource
   - name: Other
     tag: Demo
 
@@ -47,5 +49,5 @@ design:
   flip_alt_rows: false
 
 
-active: false
+active: true
 ---
