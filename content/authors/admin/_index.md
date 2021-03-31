@@ -78,10 +78,9 @@ highlight_name: false
 
 I am a Ph.D. student at the Sapienza University of Rome in the Gladia research group led by Professor Emanuele Rodolà.
 
-I'm excited by many fields of Computer Science and in particular of *Artificial Intelligence*. Currently, my research focuses on **geometric deep learning**, **representation learning** and **reasoning**.
+I'm excited by many Computer Science fields and, in particular, by *Artificial Intelligence*. Currently, my research focuses on **geometric deep learning**, **representation learning**, and **reasoning**.
 
-I am a long time Linux user and open source enthusiast. When I can, I try to contribute back to the open source projects.
-
+I am a long time Linux user and open source enthusiast. When I can, I try to contribute back to the open-source community.
 
 <!--
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
