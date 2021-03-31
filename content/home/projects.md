@@ -28,7 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
+    tag: deeplearning
+  - name: Open Source
+    tag: opensource
   - name: Other
     tag: Demo
 
@@ -47,5 +49,5 @@ design:
   flip_alt_rows: false
 
 
-active: false
+active: true
 ---
