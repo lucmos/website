@@ -22,27 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Teaching Assistant
+    company: Sapienza University of Rome
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Rome
+    date_start: '2020-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        - Designed the course lab sessions to explain and show to the students fundamentals and cutting-edge techniques in many areas of deep learning.
 
-        * Analysing
-        * Modelling
-        * Deploying
+        - Latest course material with interactive notebooks available [here](https://github.com/erodola/DLAI-s2-2021).
 
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  # - title: Professor
+  #   company: University X
+  #   company_url: ''
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2016-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 
-active: false
+active: true
 ---
