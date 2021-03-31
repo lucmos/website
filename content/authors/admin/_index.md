@@ -14,7 +14,7 @@ organizations:
   url: https://www.uniroma1.it/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence and Geometric Deep Learning.
+bio: I'm excited by many Computer Science fields and, in particular, by Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
