@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/7SGC59DFZF6Y
   date_end: ""
-  date_start: "2020-01-01"
+  date_start: "2021-03-01"
   description: |2-
     The Reinforcement Learning Specialization consists of 4 courses
     exploring the power of adaptive learning systems and artificial
