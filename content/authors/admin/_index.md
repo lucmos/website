@@ -26,20 +26,40 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
+
     institution: Sapienza University of Rome
-    grade: ""
-    gpa: ""
-    year: ""
+    institution_url: https://gladia.di.uniroma1.it/
+    logo: sapienza.png
+    padding_logo: 0
+
+  - course: School of Artificial Intelligence
+    year: 2019
+
+    institution: Pi School
+    institution_url: https://picampus-school.com/programme/school-of-ai/
+    logo: pischool.png
+    padding_logo: 5
+
   - course: M.S. in Computer Science
-    institution: Sapienza University of Rome
     grade: "110/110 with honors"
     gpa: "30.3/30"
     year: 2019
-  - course: B.S. in Computer Science
+
     institution: Sapienza University of Rome
+    institution_url: https://www.uniroma1.it/it/
+    logo: sapienza.png
+    padding_logo: 0
+
+
+  - course: B.S. in Computer Science
     grade: "110/110 with honors"
     gpa: "30.5/30"
     year: 2017
+
+    institution: Sapienza University of Rome
+    institution_url: https://www.uniroma1.it/it/
+    logo: sapienza.png
+    padding_logo: 0
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
