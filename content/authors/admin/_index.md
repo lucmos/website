@@ -21,6 +21,7 @@ interests:
 - Artificial Intelligence
 - Geometric Deep Learning
 - Representation Learning
+- Reasoning
 
 # Education to show in About widget
 education:
@@ -100,7 +101,7 @@ I am a Ph.D. student at the Sapienza University of Rome in the Gladia research g
 
 I'm excited by many Computer Science fields and, in particular, by *Artificial Intelligence*. Currently, my research focuses on **geometric deep learning**, **representation learning**, and **reasoning**.
 
-I am a long time Linux user and open source enthusiast. When I can, I try to contribute back to the open-source community.
+I am a long time Linux user and open source enthusiast. When I can, I try to give back to the open-source community.
 
 <!--
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
