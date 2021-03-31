@@ -29,8 +29,8 @@ education:
 
     institution: Sapienza University of Rome
     institution_url: https://gladia.di.uniroma1.it/
-    logo: sapienza.png
-    padding_logo: 0
+    logo: sapienza.svg
+    padding_logo: 1
 
   - course: School of Artificial Intelligence
     year: 2019
@@ -47,8 +47,8 @@ education:
 
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
-    logo: sapienza.png
-    padding_logo: 0
+    logo: sapienza.svg
+    padding_logo: 1
 
 
   - course: B.S. in Computer Science
@@ -58,8 +58,8 @@ education:
 
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
-    logo: sapienza.png
-    padding_logo: 0
+    logo: sapienza.svg
+    padding_logo: 1
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
