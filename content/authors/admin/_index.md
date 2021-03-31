@@ -38,7 +38,7 @@ education:
     institution: Pi School
     institution_url: https://picampus-school.com/programme/school-of-ai/
     logo: pischool.png
-    padding_logo: 5
+    padding_logo: 3
 
   - course: M.S. in Computer Science
     grade: "110/110 with honors"
