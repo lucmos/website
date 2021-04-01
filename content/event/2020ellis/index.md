@@ -4,7 +4,7 @@ title: Learning Set Operations for Deformable Shapes
 event: ELLIS Workshop on Geometric and Relational Deep Learning
 event_url: https://geometric-relational-dl.github.io/
 
-# location: Amsterdam (virtual)
+location: Amsterdam (virtual)
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
