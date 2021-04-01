@@ -1,6 +1,7 @@
 ---
-title: NN-Template
-summary: Generic template to bootstrap your PyTorch project with PyTorch Lightning, Hydra, W&B, DVC, and Streamlit.
+title: NN Template
+summary: Popular template to bootstrap the *scaffolding* for your PyTorch project with [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning), [Hydra](https://github.com/facebookresearch/hydra), [DVC](https://dvc.org/doc/start/data-versioning), [Weights and Biases](https://wandb.ai/home), and [Streamlit](https://streamlit.io/).
+
 tags:
 - deeplearning
 - opensource
@@ -10,7 +11,6 @@ date: "2021-03-31T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
