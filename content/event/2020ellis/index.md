@@ -12,7 +12,9 @@ location: Amsterdam (virtual)
 #   postcode: '94305'
 #   country: United States
 
-summary: Solving a non-rigid shape puzzle can be fully phrased in terms of the shape spectra.
+summary: |2-
+  *ELLIS Workshop on Geometric and Relational Deep Learning*
+
 abstract: |2-
   Given several parts of a single shape, how can we “stitch” them together so as to reconstruct the shape? Alternatively, how can we remove a fixed part from a given shape? What if each part deforms independently? Crucially, *how can we solve these tasks without requiring a correspondence*?
 

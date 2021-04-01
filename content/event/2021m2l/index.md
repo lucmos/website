@@ -1,7 +1,7 @@
 ---
 title: Spectral Unions of Partial Deformable 3D Shapes
 
-event: Mediterranean Machine Learning  summer school
+event: Mediterranean Machine Learning summer school
 event_url: https://www.m2lschool.org/
 
 location: Virtual
@@ -12,7 +12,9 @@ location: Virtual
 #   postcode: '94305'
 #   country: United States
 
-summary: Defining a union operation between short sequences of eigenvalues.
+summary: |2-
+  *Mediterranean Machine Learning summer school*
+
 abstract: |2-
   Spectral geometric methods have brought revolutionary changes to the field of geometry processing -- however, when the data to be processed exhibits severe partiality, such methods fail to generalize. As a result, there exists a big performance gap between methods dealing with complete shapes, and methods that address the case of missing geometry. In this paper, we propose a possible way to fill this gap. Specifically, we introduce the first method to compute shape compositions without requiring to solve first for a dense correspondence between the given partial shapes. We do so by operating in a purely spectral domain, where we define a union operation between short sequences of eigenvalues. Working with eigenvalues allows to deal with unknown correspondence, different sampling, and different discretization (point clouds and meshes alike), making this operation especially robust and general. Our approach is data-driven, and can generalize to isometric and non-isometric deformations of the surface, as long as these stay within the same semantic class (e.g., human bodies), as well as to partiality artifacts not seen at training time.
 
