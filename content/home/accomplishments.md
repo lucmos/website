@@ -35,6 +35,13 @@ item:
   title: Reinforcement Learning Specialization
   url: ""
 
+- title: Student Volunteer
+  organization: Symposium on Geometry Processing
+  url: 'https://sgp2019.di.unimi.it/'
+  location: Milan
+  date_start: '2019-05-06'
+  date_end: '2019-05-10'
+  description: 'Selected volunteer student to help in the organization of the conference.'
 
 
 active: true
