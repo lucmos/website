@@ -20,5 +20,5 @@
   [plugins.inputs]
     debug = true
 
-[[plugins]]
-package = "netlify-plugin-checklinks"
+
+
