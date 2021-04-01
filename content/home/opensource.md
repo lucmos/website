@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 85
+weight: 75
 
 title: Projects
 subtitle: 'Open Source'
