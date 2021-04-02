@@ -47,7 +47,8 @@ authors:
   - Maks Ovsjanikov
   - Leonidas Guibas
   - Emanuele Rodolà
-tags: [poster]
+
+categories: ["poster"]
 
 
 # Is this a featured talk? (true/false)

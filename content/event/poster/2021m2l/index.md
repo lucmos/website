@@ -37,7 +37,7 @@ authors:
   - Leonidas Guibas
   - Emanuele Rodolà
 
-tags: [poster]
+categories: ["poster"]
 
 # Is this a featured talk? (true/false)
 featured: false

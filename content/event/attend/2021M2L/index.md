@@ -18,7 +18,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2010-01-01T00:00:00Z"
 
-tags: [attended]
+categories: ["attended"]
 
 # Is this a featured talk? (true/false)
 featured: false

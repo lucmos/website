@@ -20,8 +20,8 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: ""
-    tag: "attended"
+    category: "attended"
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
