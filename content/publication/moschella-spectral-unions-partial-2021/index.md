@@ -5,7 +5,7 @@ title: Spectral Unions of Partial Deformable 3D Shapes
 subtitle: ''
 summary: ''
 authors:
-- Luca Moschella
+- admin
 - Simone Melzi
 - Luca Cosmo
 - Filippo Maggioli

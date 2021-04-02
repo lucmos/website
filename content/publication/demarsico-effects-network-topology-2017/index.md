@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maria De Marsico
-- Luca Moschella
+- admin
 - Andrea Sterbini
 - Marco Temperini
 tags:

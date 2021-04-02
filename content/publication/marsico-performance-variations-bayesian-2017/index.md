@@ -7,10 +7,10 @@ title: Performance Variations of the Bayesian Model of Peer-Assessment Implement
 subtitle: ''
 summary: ''
 authors:
-- M. De Marsico
-- L. Moschella
-- A. Sterbini
-- M. Temperini
+- Maria De Marsico
+- admin
+- Andrea Sterbini
+- Marco Temperini
 tags:
 - '"Bayes methods"'
 - '"Bayesian inference"'
