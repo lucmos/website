@@ -93,13 +93,18 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 ---
 
 I am a Ph.D. student at the Sapienza University of Rome in the Gladia research group led by Professor Emanuele Rodolà.
 
-I'm excited by many Computer Science fields and, in particular, by *Artificial Intelligence*. Currently, my research focuses on **geometric deep learning**, **representation learning**, and **reasoning**.
+I'm excited by many Computer Science fields and, in particular, by *Artificial Intelligence*.
+I am passionate about frontier research, crossing the boundaries of AI and other applied disciplines.
+Currently, my research focuses on **geometric deep learning**, **representation learning**, and **reasoning**.
+
+I'm a strong believer of reproducibility in science, and make an effort to write clean, well organized and documented code.
+I strive to keep up to pace with the latest technological advancements and I like to think of myself as an early adopter.
 
 I am a long time Linux user and open source enthusiast. When I can, I try to give back to the open-source community.
 
