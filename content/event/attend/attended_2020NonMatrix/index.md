@@ -6,7 +6,7 @@ event_url: https://boracchi.faculty.polimi.it/teaching/Non-Matrix.htm
 external_link: https://boracchi.faculty.polimi.it/teaching/Non-Matrix.htm
 
 location: |2-
-  Milan (virtual) — Admission upon acceptance
+  Milan (virtual)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
