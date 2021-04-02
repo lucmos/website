@@ -6,7 +6,7 @@ event_url: https://acdl2020.icas.xyz/
 external_link: https://acdl2020.icas.xyz/
 
 location: |2-
-  Certosa di Pontignano, Siena
+  Certosa di Pontignano, Siena — Admission upon acceptance
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

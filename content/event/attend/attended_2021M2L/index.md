@@ -6,7 +6,7 @@ event_url: 'https://www.m2lschool.org/'
 external_link: 'https://www.m2lschool.org/'
 
 location: |2-
-  Virtual
+  Virtual — Admission upon acceptance
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
