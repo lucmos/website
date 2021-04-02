@@ -6,7 +6,7 @@ event_url: https://geometric-relational-dl.github.io/
 external_link: https://geometric-relational-dl.github.io/
 
 location: |2-
-  Amsterdam (virtual) — Admission upon acceptance
+  Amsterdam (virtual) — Admission upon selection
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,6 +18,9 @@ all_day: true
 publishDate: "2010-01-01T00:00:00Z"
 
 categories: ["attended"]
+
+tags:
+  - Workshop
 
 # Is this a featured talk? (true/false)
 featured: false

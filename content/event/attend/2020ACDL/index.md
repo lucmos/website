@@ -6,7 +6,7 @@ event_url: https://acdl2020.icas.xyz/
 external_link: https://acdl2020.icas.xyz/
 
 location: |2-
-  Certosa di Pontignano, Siena — Admission upon acceptance
+  Certosa di Pontignano, Siena — Admission upon selection
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,6 +18,9 @@ all_day: true
 publishDate: "2010-01-01T00:00:00Z"
 
 categories: ["attended"]
+
+tags:
+  - Summer school
 
 # Is this a featured talk? (true/false)
 featured: false

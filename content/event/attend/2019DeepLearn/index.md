@@ -19,6 +19,9 @@ publishDate: "2010-01-01T00:00:00Z"
 
 categories: ["attended"]
 
+tags:
+  - Summer school
+
 # Is this a featured talk? (true/false)
 featured: false
 

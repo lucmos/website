@@ -6,7 +6,7 @@ event_url: 'https://www.m2lschool.org/'
 external_link: 'https://www.m2lschool.org/'
 
 location: |2-
-  Virtual — Admission upon acceptance
+  Virtual — Admission upon selection
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,6 +19,9 @@ all_day: true
 publishDate: "2010-01-01T00:00:00Z"
 
 categories: ["attended"]
+
+tags:
+  - Summer school
 
 # Is this a featured talk? (true/false)
 featured: false

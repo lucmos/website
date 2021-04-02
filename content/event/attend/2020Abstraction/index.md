@@ -6,7 +6,7 @@ event_url: 'https://aaai.org/Symposia/Fall/fss20symposia.php#fs04'
 external_link: 'https://aaai.org/Symposia/Fall/fss20symposia.php#fs04'
 
 location: |2-
-  Virtual — Admission upon acceptance
+  Virtual — Admission upon selection
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,6 +19,9 @@ all_day: true
 publishDate: "2010-01-01T00:00:00Z"
 
 categories: ["attended"]
+
+tags:
+  - Workshop
 
 # Is this a featured talk? (true/false)
 featured: false
