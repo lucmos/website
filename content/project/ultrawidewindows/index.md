@@ -9,7 +9,7 @@ tags:
 - opensource
 
 
-date: "2018-11-1T00:00:00Z"
+date: "2018-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.opendesktop.org/p/1276605/"
