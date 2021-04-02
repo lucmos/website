@@ -19,9 +19,9 @@ main:
   # - name: Accomplish­ments
   #   url: '#accomplishments'
   #   weight: 45
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
+  - name: Publications
+    url: '#publications'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
