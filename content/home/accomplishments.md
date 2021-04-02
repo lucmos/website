@@ -39,8 +39,8 @@ item:
   organization: Symposium on Geometry Processing
   url: 'https://sgp2019.di.unimi.it/'
   location: Milan
-  date_start: '2019-05-06'
-  date_end: '2019-05-10'
+  date_start: '2019-07-06'
+  date_end: '2019-07-10'
   description: 'Selected volunteer student to help in the organization of the conference.'
 
 
