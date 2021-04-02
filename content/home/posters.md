@@ -31,6 +31,12 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+
+  archive:
+    # enable: true
+    text: See all posters
+    # link: post/
+
 design:
   # Choose a view for the listings:
   #   1 = List
