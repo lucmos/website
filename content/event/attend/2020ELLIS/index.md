@@ -10,7 +10,7 @@ location: |2-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-04-08T00:00:00Z'
+date: '2020-04-24T00:00:00Z'
 # date_end: '2019-07-10T00:00:00Z'
 all_day: true
 
