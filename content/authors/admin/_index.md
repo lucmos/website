@@ -30,7 +30,7 @@ education:
 
     institution: Sapienza University of Rome
     institution_url: https://gladia.di.uniroma1.it/
-    logo: sapienza.svg
+    logo: gladia.svg
     padding_logo: 1
 
   - course: School of Artificial Intelligence
