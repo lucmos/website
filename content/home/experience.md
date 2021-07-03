@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: NNAISENSE
+    company_url: 'https://nnaisense.com/'
+    location: Lugano, Switzerland
+    date_start: '2021-07-01'
+    date_end: ''
+    description: |2-
+        - Improving the AI software infrastructure with a main focus on hyperparameter tuning and its application to client projects.
+
   - title: Teaching Assistant
     company: Deep Learning & Applied AI @Sapienza
     company_url: 'https://github.com/erodola/DLAI-s2-2021'
