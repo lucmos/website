@@ -25,6 +25,7 @@ experience:
   - title: Research Intern
     company: NNAISENSE
     company_url: 'https://nnaisense.com/'
+    company_logo: nnaisense
     location: Lugano, Switzerland
     date_start: '2021-07-01'
     date_end: ''
@@ -34,7 +35,8 @@ experience:
   - title: Teaching Assistant
     company: Deep Learning & Applied AI @Sapienza
     company_url: 'https://github.com/erodola/DLAI-s2-2021'
-    location: Rome
+    company_logo: sapienza
+    location: Rome, Italy
     date_start: '2020-01-01'
     date_end: ''
     description: |2-
