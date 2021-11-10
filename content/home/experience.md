@@ -30,7 +30,8 @@ experience:
     date_start: '2021-07-01'
     date_end: ''
     description: |2-
-        - Improving the AI software infrastructure with a main focus on hyperparameter tuning and its application to client projects.
+        - Designed and implemented a generic deep learning template to bootstrap industrial projects and automate the hyperparameters tuning.
+        - Improved the company infrastructure to streamline the development and deployment of deep learning solutions.
 
   - title: Teaching Assistant
     company: Deep Learning & Applied AI @Sapienza
