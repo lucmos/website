@@ -28,7 +28,7 @@ experience:
     company_logo: nnaisense
     location: Lugano, Switzerland
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: |2-
         - Designed and implemented a generic deep learning template to bootstrap industrial projects and automate the hyperparameters tuning.
         - Improved the company infrastructure to streamline the development and deployment of deep learning solutions.
