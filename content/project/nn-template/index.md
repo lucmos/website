@@ -14,10 +14,16 @@ image:
   focal_point: Smart
 
 links:
+- icon: home
+  icon_pack: fa
+  name:
+  url: https://grok-ai.github.io/nn-template
+
 - icon: github
   icon_pack: fab
   name: nn-template
-  url: https://github.com/lucmos/nn-template
+  url: https://github.com/grok-ai/nn-template
+
 
 authors:
   - admin
