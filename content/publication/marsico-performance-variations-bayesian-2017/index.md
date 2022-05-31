@@ -24,10 +24,17 @@ tags:
 - '"Taxonomy"'
 - '"Topology"'
 categories: []
-date: '2017-07-01'
+date: '2017-07-10'
 lastmod: 2021-04-02T11:31:59+02:00
 featured: false
 draft: false
+
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'ITHET 2017'
+  url: https://ieeexplore.ieee.org/document/8067814
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -60,7 +67,7 @@ abstract: The paper presents a study of the performance variations of the Bayesi
   by each student. The results show that both factors affect the accuracy of the inferred
   marks produced by the Bayesian network, when compared with the available ground-truth
   produced by teachers.
-publication: '*2017 16th International Conference on Information Technology Based
-  Higher Education and Training (ITHET)*'
-doi: 10.1109/ITHET.2017.8067814
+publication: '*16th International Conference on Information Technology Based
+  Higher Education and Training (ITHET 2017)*'
+
 ---

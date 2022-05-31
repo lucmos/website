@@ -16,10 +16,16 @@ tags:
 - '"Open answers"'
 - '"Peer assessment"'
 categories: []
-date: '2017-01-01'
+date: '2017-09-05'
 lastmod: 2021-04-02T11:31:59+02:00
 featured: false
 draft: false
+
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'EC-TEL 2017'
+  url: https://link.springer.com/chapter/10.1007/978-3-319-66610-5_31
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -52,6 +58,5 @@ abstract: 'The paper investigates if and how the topology of the peer-assessment
   of the subset of students to be corrected by the teacher?” We show that (RQ1) OpenAnswer
   is less effective on higher diameter topologies, (RQ2) this can be avoided if the
   subset of corrected students is chosen considering the network topology.'
-publication: '*Data Driven Approaches in Digital Education*'
-doi: 10.1007/978-3-319-66610-5_31
+publication: '*12th European Conference on Technology Enhanced Learning (EC-TEL 2017)*'
 ---
