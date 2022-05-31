@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spectral Unions of Partial Deformable 3D Shapes
+title: Learning Spectral Unions of Partial Deformable 3D Shapes
 subtitle: ''
 summary: ''
 authors:
@@ -18,7 +18,7 @@ tags:
 - '"Computer Science - Graphics"'
 - '"Computer Science - Machine Learning"'
 categories: []
-date: '2021-03-31'
+date: '2022-04-29'
 lastmod: 2021-04-02T11:32:00+02:00
 featured: false
 draft: false
@@ -31,11 +31,11 @@ image:
   focal_point: 'Center'
   preview_only: false
 
-# links:
-# - icon: youtube
-#   icon_pack: fab
-#   name: Video
-#   url: https://www.youtube.com/watch?v=SeZWxF15bbs
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'Computer Graphics Forum'
+  url: https://diglib.eg.org/handle/10.1111/cgf14483
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -43,23 +43,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-02T09:31:59.888843Z'
+publishDate: '2022-04-28T10:30:59.888843Z'
 publication_types:
-- '3'
-abstract: Spectral geometric methods have brought revolutionary changes to the field
-  of geometry processing -- however, when the data to be processed exhibits severe
-  partiality, such methods fail to generalize. As a result, there exists a big performance
-  gap between methods dealing with complete shapes, and methods that address missing
-  geometry. In this paper, we propose a possible way to fill this gap. We introduce
-  the first method to compute compositions of non-rigidly deforming shapes, without
-  requiring to solve first for a dense correspondence between the given partial shapes.
-  We do so by operating in a purely spectral domain, where we define a union operation
-  between short sequences of eigenvalues. Working with eigenvalues allows to deal
-  with unknown correspondence, different sampling, and different discretization (point
-  clouds and meshes alike), making this operation especially robust and general. Our
-  approach is data-driven, and can generalize to isometric and non-isometric deformations
-  of the surface, as long as these stay within the same semantic class (e.g., human
-  bodies), as well as to partiality artifacts not seen at training time.
-publication: '*arXiv*'
-url_pdf: http://arxiv.org/abs/2104.00514
+- '2'
+abstract: Spectral geometric methods have brought revolutionary changes to the field of geometry processing. Of particular interest is the study of the Laplacian spectrum as a compact, isometry and permutation-invariant representation of a shape. Some recent works show how the intrinsic geometry of a full shape can be recovered from its spectrum, but there are approaches that consider the more challenging problem of recovering the geometry from the spectral information of partial shapes. In this paper, we propose a possible way to fill this gap. We introduce a learning-based method to estimate the Laplacian spectrum of the union of partial non-rigid 3D shapes, without actually computing the 3D geometry of the union or any correspondence between those partial shapes. We do so by operating purely in the spectral domain and by defining the union operation between short sequences of eigenvalues. We show that the approximated union spectrum can be used as-is to reconstruct the complete geometry [MRC*19], perform region localization on a template [RTO*19] and retrieve shapes from a database, generalizing ShapeDNA [RWP06] to work with partialities. Working with eigenvalues allows us to deal with unknown correspondence, different sampling, and different discretizations (point clouds and meshes alike), making this operation especially robust and general. Our approach is data-driven and can generalize to isometric and non-isometric deformations of the surface, as long as these stay within the same semantic class (e.g., human bodies or horses), as well as to partiality artifacts not seen at training time.
+
+publication: '*Computer Graphics Forum*'
 ---
