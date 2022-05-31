@@ -5,7 +5,6 @@
 
 title: Luca Moschella # Website name
 baseurl: 'luca.moschella.dev' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -67,7 +66,6 @@ related:
     - name: categories
       weight: 70
 security:
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_
+  _merge: deep
+sitemap:
+  _merge: deep
