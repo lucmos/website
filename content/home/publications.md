@@ -27,7 +27,12 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
+
+  archive:
+    enable: true
+    text: Browse all
+    link: publication/
 
 design:
   # Choose a view for the listings:
