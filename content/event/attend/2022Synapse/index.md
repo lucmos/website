@@ -1,16 +1,16 @@
 ---
-title: Lightning Developer Conference 2022
+title: Synapse AI symposium
 
-event: Lightning Developer Conference 2022
-event_url: https://www.pytorchlightning.ai/events/devcon2022nyc
-external_link: https://www.pytorchlightning.ai/events/devcon2022nyc
+event: Synapse AI symposium
+event_url: https://synapsesymposium.ai/
+external_link: https://synapsesymposium.ai/
 
 location: |2-
-  Lavan541 |  New York City — Scholarship Awardee
+  Milan — Admission upon selection
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-16T00:00:00Z'
+date: '2022-07-22T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
